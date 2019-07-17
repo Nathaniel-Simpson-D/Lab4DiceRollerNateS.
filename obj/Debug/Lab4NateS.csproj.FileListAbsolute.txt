@@ -1,0 +1,7 @@
+C:\CLabs\Lab4NateS\bin\Debug\Lab4NateS.exe.config
+C:\CLabs\Lab4NateS\bin\Debug\Lab4NateS.exe
+C:\CLabs\Lab4NateS\bin\Debug\Lab4NateS.pdb
+C:\CLabs\Lab4NateS\obj\Debug\Lab4NateS.csprojAssemblyReference.cache
+C:\CLabs\Lab4NateS\obj\Debug\Lab4NateS.csproj.CoreCompileInputs.cache
+C:\CLabs\Lab4NateS\obj\Debug\Lab4NateS.exe
+C:\CLabs\Lab4NateS\obj\Debug\Lab4NateS.pdb
